@@ -1,5 +1,4 @@
 #!/bin/bash
-#
 #Author : Dominique
 #Date: 24 Feb 2022
 
